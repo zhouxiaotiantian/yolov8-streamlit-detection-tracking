@@ -11,7 +11,7 @@ import helper
 
 # Setting page layout
 st.set_page_config(
-    page_title="Object Detection using YOLOv8",
+    page_title="电力线路危害鸟类智能检测识别软件",
     page_icon="🤖",
     layout="wide",
     initial_sidebar_state="expanded"
